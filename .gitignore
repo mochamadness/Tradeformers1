@@ -159,3 +159,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 transformers/
+Predicting-The-Stock-Trend-Using-News-Sentiment-Analysis-and-Technical-Indicators-in-Spark/
+Stock buy and sell agent/
