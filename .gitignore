@@ -161,3 +161,4 @@ cython_debug/
 transformers/
 Predicting-The-Stock-Trend-Using-News-Sentiment-Analysis-and-Technical-Indicators-in-Spark/
 Stock buy and sell agent/
+stock-buy-and-sell-agent/
